@@ -1,0 +1,11 @@
+*.png
+*.pptx
+*.py
+*.save
+.DS_Store
+.localized
+ppt.flipkart
+chatbox
+README.md
+main4.py
+app.py
