@@ -1,0 +1,10 @@
+.DS_Store
+.localized
+*.png
+*.pptx
+*.save
+*.py
+app.py
+main4.py
+chatbox
+index-2.html
